@@ -1,0 +1,28 @@
+.mainDiv{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    color: darkblue;
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+}
+.submit{
+    background-color: aqua;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-left: 200px;
+}
+.spa{
+    display: flex;
+    margin-left: 100px;
+}
+
+.spa1 ul li a{
+color: red;
+    
+}
+.spa1{
+    display: flex;
+    gap: 30px;
+    color: black;
+}
